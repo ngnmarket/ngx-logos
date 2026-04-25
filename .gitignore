@@ -3,5 +3,5 @@ node_modules/
 # Raw unprocessed downloads — not committed
 logos/
 
-# Download script — kept private
-scripts/download.js
+# Scripts — kept private
+scripts/

@@ -1,4 +1,4 @@
-# NGX Logos
+# 🇳🇬 NGX Logos
 
 ![npm](https://img.shields.io/npm/v/ngx-logos)
 ![license](https://img.shields.io/github/license/AsaoluElijah/ngx-logos)
@@ -8,11 +8,11 @@ A community-maintained logo resource for companies listed on the **[Nigerian Sto
 
 All logos are available in three standardized formats, with transparent backgrounds:
 
-| Format | Size | Directory |
-|--------|------|-----------|
-| PNG    | 200×200px | `dist/png/` |
-| WebP   | 200×200px | `dist/webp/` |
-| ICO    | 16×16, 32×32, 48×48px | `dist/ico/` |
+| Format | Size                  | Directory    |
+| ------ | --------------------- | ------------ |
+| PNG    | 200×200px             | `dist/png/`  |
+| WebP   | 200×200px             | `dist/webp/` |
+| ICO    | 16×16, 32×32, 48×48px | `dist/ico/`  |
 
 ## Usage
 
