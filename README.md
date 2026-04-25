@@ -44,7 +44,7 @@ getLogoUrl('DANGCEM', 'webp');   // → https://cdn.jsdelivr.net/npm/ngx-logos/d
 getLogoUrl('GTCO', 'png');       // → https://cdn.jsdelivr.net/npm/ngx-logos/dist/png/GTCO.png
 
 // List all available ticker symbols
-listSymbols();                   // → ['ACCESSCORP', 'DANGCEM', 'GTCO', ...]
+listSymbols();                   // → ['ACCESSCORPCORP', 'DANGCEM', 'GTCO', ...]
 ```
 
 ### CLI — copy only the formats you need
@@ -74,12 +74,12 @@ You can reference logos directly without installing anything, using GitHub raw U
 # jsDelivr CDN (recommended)
 https://cdn.jsdelivr.net/gh/ngnmarket/ngx-logos/dist/png/DANGCEM.png
 https://cdn.jsdelivr.net/gh/ngnmarket/ngx-logos/dist/webp/GTCO.webp
-https://cdn.jsdelivr.net/gh/ngnmarket/ngx-logos/dist/ico/ACCESS.ico
+https://cdn.jsdelivr.net/gh/ngnmarket/ngx-logos/dist/ico/ACCESSCORP.ico
 
 # GitHub Raw
 https://raw.githubusercontent.com/ngnmarket/ngx-logos/main/dist/png/DANGCEM.png
 https://raw.githubusercontent.com/ngnmarket/ngx-logos/main/dist/webp/GTCO.webp
-https://raw.githubusercontent.com/ngnmarket/ngx-logos/main/dist/ico/ACCESS.ico
+https://raw.githubusercontent.com/ngnmarket/ngx-logos/main/dist/ico/ACCESSCORP.ico
 ```
 
 In HTML:
@@ -94,7 +94,7 @@ Browse and download individual logos from the [`dist/`](https://github.com/ngnma
 
 ## Companies
 
-Logos are named by their NGX ticker symbol in uppercase — e.g. `DANGCEM.png`, `GTCO.webp`, `ACCESS.ico`.
+Logos are named by their NGX ticker symbol in uppercase — e.g. `DANGCEM.png`, `GTCO.webp`, `ACCESSCORP.ico`.
 
 Missing a company? See [CONTRIBUTING.md](./CONTRIBUTING.md) to add it.
 
