@@ -1,6 +1,6 @@
 {
   "name": "ngx-logos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Logo resources for companies listed on the Nigerian Stock Exchange",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
