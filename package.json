@@ -1,0 +1,35 @@
+{
+  "name": "ngx-logos",
+  "version": "1.0.0",
+  "description": "Logo resources for companies listed on the Nigerian Stock Exchange",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "bin": {
+    "ngx-logos": "bin/cli.js"
+  },
+  "files": [
+    "dist/",
+    "lib/",
+    "bin/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngnmarket/ngx-logos"
+  },
+  "scripts": {
+    "process": "node scripts/process.js"
+  },
+  "keywords": [
+    "ngx",
+    "nigeria",
+    "stock",
+    "exchange",
+    "logos",
+    "icons",
+    "favicon"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "sharp": "^0.33.4"
+  }
+}
