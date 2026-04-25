@@ -10,7 +10,8 @@
   "files": [
     "dist/",
     "lib/",
-    "bin/"
+    "bin/",
+    "README.md"
   ],
   "repository": {
     "type": "git",
