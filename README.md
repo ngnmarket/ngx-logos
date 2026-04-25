@@ -44,7 +44,7 @@ getLogoUrl('DANGCEM', 'webp');   // → https://cdn.jsdelivr.net/npm/ngx-logos/d
 getLogoUrl('GTCO', 'png');       // → https://cdn.jsdelivr.net/npm/ngx-logos/dist/png/GTCO.png
 
 // List all available ticker symbols
-listSymbols();                   // → ['ACCESS', 'DANGCEM', 'GTCO', ...]
+listSymbols();                   // → ['ACCESSCORP', 'DANGCEM', 'GTCO', ...]
 ```
 
 ### CLI — copy only the formats you need
